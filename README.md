@@ -1,5 +1,6 @@
 ##livereload
 ![Project status](https://img.shields.io/badge/version-1.0.0-green.svg)
+[![Go Report Card](https://goreportcard.com/badge/github.com/go-playground/livereload)](https://goreportcard.com/report/github.com/go-playground/livereload)
 [![GoDoc](https://godoc.org/github.com/go-playground/livereload?status.svg)](https://godoc.org/github.com/go-playground/livereload)
 ![License](https://img.shields.io/dub/l/vibe-d.svg)
 
