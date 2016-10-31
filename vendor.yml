@@ -1,0 +1,13 @@
+vendors:
+- path: github.com/go-playground/ansi
+  rev: 03620c07d1b1962e3ab8f51ba1bcca06d55a3d49
+- path: github.com/go-playground/log
+  rev: a2ed9746cf4487172509295a54470e8822e3df49
+- path: github.com/gorilla/websocket
+  rev: 2aff870ef83507abb46472eae82449f7a4c464c5
+- path: github.com/jaschaephraim/lrserver
+  rev: a6402c59d5edc12bf83c3fa74a1b86dd9b8d6e19
+- path: golang.org/x/sys
+  rev: c200b10b5d5e122be351b67af224adc6128af5bf
+- path: gopkg.in/fsnotify.v1
+  rev: 629574ca2a5df945712d3079857300b5e4da0236
