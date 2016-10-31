@@ -26,7 +26,7 @@ import (
 //
 
 const (
-	port = 3005
+	port = 35729
 )
 
 var (
