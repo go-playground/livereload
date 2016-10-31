@@ -17,9 +17,9 @@ go get -u github.com/go-playground/livereload
 
 Usage
 ------
-```go
-
-```
+see examples:
+- [basic](https://github.com/go-playground/livereload/blob/master/examples/basic/main.go) - an example of live reloading of .css and .js
+- [advanced](https://github.com/go-playground/livereload/blob/master/examples/advanced/main.go) - an example of live reloading of .css, .js and .tmpl(template files)
 
 Licenses
 --------
